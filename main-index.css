@@ -1,0 +1,23 @@
+.existir {
+background-color: purple;
+ width: 30px;
+ height: 30px;
+}
+
+.existir2 {
+  width: 100px;
+  height: 100px;
+  border: '1px solid blue' ;
+  margin-top: 20px;
+}
+
+.yelow {
+  background-color: yellow ;
+}
+.red {
+  background-color: red ;
+}
+
+.blue {
+    background-color: blue ;
+}
